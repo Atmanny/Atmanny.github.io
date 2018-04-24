@@ -1,9 +1,7 @@
 ---
-layout: post  
-title: the firt blog
+layout: post  # 文章样式，不建议修改
+title: Markdown Example - Definition  # 文章的标题
 tags: 
-- pyhton learning
-- sql learning
+- tag1  # 文章标签1
+- tag2  # 文章标签2
 ---
-
-if you can see this, i will...
