@@ -6,3 +6,4 @@ tags:
 - sql learning
 ---
 
+if you can see this, i will...
